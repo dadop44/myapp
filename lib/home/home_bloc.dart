@@ -1,10 +1,12 @@
 import 'dart:async';
 
 import 'package:myapp/model/product.dart';
+import 'package:myapp/repository/product_repository.dart';
 
 class HomeBloc {
   ProductRepository productRepository;
 
+  // ignore: close_sinks
   final _listController = StreamController<List<Product>>();
   StreamSink<List<Product>> get _inList => _listController.sink;
   Stream<List<Product>> get list => _listController.stream;
