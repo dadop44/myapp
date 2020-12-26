@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:myapp/home/home_bloc.dart';
+import 'package:myapp/model/product.dart';
 
 class HomeLayout extends StatefulWidget {
   @override

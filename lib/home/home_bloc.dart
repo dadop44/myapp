@@ -1,5 +1,7 @@
 import 'dart:async';
 
+import 'package:myapp/model/product.dart';
+
 class HomeBloc {
   ProductRepository productRepository;
 
