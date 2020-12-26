@@ -9,7 +9,7 @@ Mã sinh viên: 1621050180
 
 Lớp quản lý: DCCTKH61A | Lớp học phần: 4080121_MT | Học kỳ: I  | Năm học: 2020-2021
 
-Số điện thoại:0394640046 | Địa chỉ email:dadop22@gmail.com
+Số điện thoại:0394640046 | Địa chỉ email: dadop22@gmail.com
 
 ## ScreenShot
 
