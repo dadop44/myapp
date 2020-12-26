@@ -1,6 +1,15 @@
 # myapp
 
-A new Flutter project.
+Bài thu hoạch cuối kỳ
+Học phần: Phát triển ứng dụng cho thiết bị di động | Mã học phần: 4080121
+
+Họ và tên sinh viên: Bùi Đình Đa
+
+Mã sinh viên: 1621050180
+
+Lớp quản lý: DCCTKH61A | Lớp học phần: 4080121_MT | Học kỳ: I  | Năm học: 2020-2021
+
+Số điện thoại:0394640046 | Địa chỉ email:dadop22@gmail.com
 
 ## ScreenShot
 
