@@ -1,6 +1,6 @@
 # myapp
 
-##Bài thu hoạch cuối kỳ
+Bài thu hoạch cuối kỳ
 Học phần: Phát triển ứng dụng cho thiết bị di động | Mã học phần: 4080121
 
 Họ và tên sinh viên: Bùi Đình Đa
